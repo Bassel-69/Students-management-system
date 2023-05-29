@@ -1,0 +1,32 @@
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\bin\Debug\net5.0\IPG202-HW.Q1.exe
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\bin\Debug\net5.0\IPG202-HW.Q1.deps.json
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\bin\Debug\net5.0\IPG202-HW.Q1.runtimeconfig.json
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\bin\Debug\net5.0\IPG202-HW.Q1.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\bin\Debug\net5.0\IPG202-HW.Q1.dll
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\bin\Debug\net5.0\ref\IPG202-HW.Q1.dll
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\bin\Debug\net5.0\IPG202-HW.Q1.pdb
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.dll
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\obj\Debug\net5.0\ref\IPG202-HW.Q1.dll
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.pdb
+C:\Users\ASUS\Desktop\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.genruntimeconfig.cache
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\bin\Debug\net5.0\IPG202-HW.Q1.exe
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\bin\Debug\net5.0\IPG202-HW.Q1.deps.json
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\bin\Debug\net5.0\IPG202-HW.Q1.runtimeconfig.json
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\bin\Debug\net5.0\IPG202-HW.Q1.runtimeconfig.dev.json
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\bin\Debug\net5.0\IPG202-HW.Q1.dll
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\bin\Debug\net5.0\IPG202-HW.Q1.pdb
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.csproj.AssemblyReference.cache
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.AssemblyInfoInputs.cache
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.AssemblyInfo.cs
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.csproj.CoreCompileInputs.cache
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.dll
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\obj\Debug\net5.0\refint\IPG202-HW.Q1.dll
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.pdb
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\obj\Debug\net5.0\IPG202-HW.Q1.genruntimeconfig.cache
+D:\Knowledge And Information\University\BAIT\Homeworks\IPG202_Procedural Programming\BAIT_IPG202_F21_bassel_153619_C3\IPG202-HW.Q1\obj\Debug\net5.0\ref\IPG202-HW.Q1.dll
